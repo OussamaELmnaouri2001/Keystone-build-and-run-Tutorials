@@ -6,7 +6,7 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use Lumache, first install it using pip: Hey this is me
 
 .. code-block:: console
 
